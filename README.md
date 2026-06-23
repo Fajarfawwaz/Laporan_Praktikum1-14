@@ -73,7 +73,9 @@ Modul 14 (Middleware/Filter): Penguatan keamanan melalui Filters. Middleware ber
 ## Arsitektur Komunikasi Data
 Aplikasi ini menggunakan komunikasi *asynchronous* antara Frontend dan Backend. Untuk memahami bagaimana browser memproses izin akses antar-port yang berbeda, lihat diagram berikut:
 
+### DI KARENAKAN BACK-END TIDAK MUAT UNTUK DI MASUKAN KE DALAM REPOSITORI MAKA SILAHKAN DOWNLOAD SEMUA FILE BACK-END, FRONT-END. DAN DATABASE SQL NYA DI LINK GOOGLE DRIVE DI BAWAH INI : 
 
+https://drive.google.com/drive/folders/1p-E3aqn18nyvVLu9CSc3qJmsNVh2BVJE?usp=sharing
 
 ## Teknologi yang Digunakan
 * **Backend:** PHP 8.2, CodeIgniter 4
