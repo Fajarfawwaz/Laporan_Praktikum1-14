@@ -99,3 +99,12 @@ Dibuat oleh: Fajar Fawwaz Atallah
 
 Mata Kuliah: Pemrograman Website
 
+## UNTUK SALINAN CODE PHP.INI SAYA SUDAH MENGUPLOAD PADA GOOGLE DRIVE SILAHKAN DI CEK SAJA DAN TINGGAL PAKAI : 
+
+https://drive.google.com/drive/folders/1Ykv6ji9g2z9rLGGT300JYbav39uYaoRM?usp=sharing
+
+UNTUK PENJELASAN LEBIH DETAIL DARI MODUL 1 - 5 DI GITHUB BERIKUT : https://github.com/Fajarfawwaz/Praktikum1-5.git
+
+UNTUK PENJELASAN MODUL 6 DI GITHUB BERIKUT : https://github.com/Fajarfawwaz/LaporanPraktikum_6.git
+
+UNTUK PENJELASAN MODUL 7 DI GITHUB BERIKUT : https://github.com/Fajarfawwaz/LaporanModul-7.git
