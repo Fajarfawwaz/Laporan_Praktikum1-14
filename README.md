@@ -3,13 +3,13 @@
 Repositori ini mendokumentasikan serangkaian tugas praktikum **Pemrograman Website** yang berfokus pada pengembangan aplikasi web menggunakan framework **CodeIgniter 4** (Backend) dan **Vue.js** (Frontend).
 
 # IDENTITAS MAHASISWA : 
-Nama : Fajar Fawwaz Atallah
+### Nama : Fajar Fawwaz Atallah
 
-Nim : 312410357
+### Nim : 312410357
 
-Kelas : I241D
+### Kelas : I241D
 
-Matkul : Pemrograman Website
+### Matkul : Pemrograman Website
 
 # PRAKTIKUM MODUL 1 - 14
 
@@ -98,6 +98,42 @@ Gunakan server lokal untuk file statis di folder frontend. Pastikan konfigurasi 
 Dibuat oleh: Fajar Fawwaz Atallah
 
 Mata Kuliah: Pemrograman Website
+
+## DIBAWAH INI ADALAH DOKUMENTASI SETIAP HALAMAN 
+
+## HALAMAN Lab_Ci11
+
+### Halaman Home 
+<img width="958" height="467" alt="image" src="https://github.com/user-attachments/assets/90d525fc-4f72-4aca-9c55-e1f9c97689ab" />
+
+### Halaman Artikel 
+<img width="959" height="464" alt="image" src="https://github.com/user-attachments/assets/ab6ce22a-588e-4c17-8c58-73fec2b9b9df" />
+
+### Halaman Ajax 
+<img width="959" height="479" alt="image" src="https://github.com/user-attachments/assets/44bf365c-ba2d-40af-8689-30c8afab3e81" />
+
+### Halaman About 
+<img width="959" height="488" alt="image" src="https://github.com/user-attachments/assets/2067e432-2784-4384-a37b-35c67391b99e" />
+
+### Halaman Dashboard Admin 
+<img width="958" height="479" alt="image" src="https://github.com/user-attachments/assets/38c33e78-873b-41e5-9b94-988aec0be1ac" />
+
+### Halaman Tambah Artikel 
+<img width="959" height="466" alt="image" src="https://github.com/user-attachments/assets/b6174325-2884-4c38-b3ec-ff0b2d519612" />
+
+## Halaman Lab8_VueJs
+
+### Halaman Home / Beranda
+<img width="959" height="491" alt="image" src="https://github.com/user-attachments/assets/cb4b9fcb-865e-4b19-b3d4-0630de501a09" />
+
+### Halaman Kelola Artikel 
+<img width="959" height="466" alt="image" src="https://github.com/user-attachments/assets/769479c4-c6ea-4e9d-9bb7-f3519f73c7d5" />
+
+### Halanman Tentang Saya 
+<img width="955" height="479" alt="image" src="https://github.com/user-attachments/assets/45efd97d-e2a6-4434-bcad-abd96cbbf540" />
+
+### Halaman Post 
+<img width="386" height="257" alt="image" src="https://github.com/user-attachments/assets/40496903-bc04-4abc-8b27-361adf494b26" />
 
 ## UNTUK SALINAN CODE PHP.INI SAYA SUDAH MENGUPLOAD PADA GOOGLE DRIVE SILAHKAN DI CEK SAJA DAN TINGGAL PAKAI : 
 
